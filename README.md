@@ -4,16 +4,16 @@ I live in Goleta. WHERE, never heard of it? Yes Goleta, CA about 8 miles north f
 - 👀 I’m interested in ...
           Arduino
           Raspberry Pi...
-            3, & 4
-            Zero
-            Pico
-          ESP32
-          8266, a lot of flavors
+            3, & 4.
+            Zero.
+            Pico.
+          ESP32.
+          8266, a lot of flavors.
           
 - 🌱 I’m currently learning ...
-        Python, 3 flavors, normal, Micro, & Circuit
-        SQLite
-        NodeJS, JS, etc
+        Python, 3 flavors, normal, Micro, & Circuit.
+        SQLite.
+        NodeJS, JS, etc.
         
 - 💞️ I’m looking to collaborate on ...
         Anything that makes a little money!
@@ -21,9 +21,9 @@ I live in Goleta. WHERE, never heard of it? Yes Goleta, CA about 8 miles north f
         Even beer will do. A meal once in a while would be good.
         
 - 📫 How to reach me ...
-    morsed2@gmail.com
-    (805) 881-3055 (leave a message)
-    www.KI6HGH.com
+    morsed2@gmail.com.
+    (805) 881-3055 (leave a message).
+    www.KI6HGH.com.
     
 <!---
 morsed2/morsed2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
