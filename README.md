@@ -11,12 +11,14 @@ I live in Goleta. WHERE, never heard of it? Yes Goleta, CA about 8 miles north f
           8266, a lot of flavors
           
 - 🌱 I’m currently learning ...
-        Python
+        Python, 3 flavors, normal, Micro, & Circuit
         SQLite
         NodeJS, JS, etc
         
 - 💞️ I’m looking to collaborate on ...
         Anything that makes a little money!
+        Preferably not like my current projects that don't make me a cent!
+        Even beer will do. A meal once in a while would be good.
         
 - 📫 How to reach me ...
     morsed2@gmail.com
